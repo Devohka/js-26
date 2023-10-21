@@ -1,8 +1,9 @@
 .gallery {
     display: flex;
     overflow-x: auto;
+    list-style: none;
   }
-  
+
   
   .image {
     width: 300px;
